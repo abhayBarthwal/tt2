@@ -1,0 +1,28 @@
+h1 {
+    color:green;
+}
+
+nav li {
+    height : 20px;
+    display : inline-block;
+    margin-left : 2px;
+}
+
+nav {
+    text-align : right;
+}
+
+.card {
+    float : left;
+    width : 20%;
+    margin-left : 10%;
+}
+
+img {
+    height : 100px;
+    width : 100px;
+}
+
+body {
+    text-align : center;
+}
